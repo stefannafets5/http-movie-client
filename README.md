@@ -1,6 +1,8 @@
-#Copyright Springer Robert Stefan 2025
+# C & C++ Http movie client
 
-This project is a C and C++ application that interacts with a REST server using
+**Copyright © Springer Robert Stefan, 2025**
+
+This project is an application that interacts with a REST server using
 command-line input. The client connects via sockets, sends HTTP requests, and
 displays responses received from the server.
 
